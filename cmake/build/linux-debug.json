@@ -1,5 +1,8 @@
 {
     "version": 8,
+    "include": [
+        "../config/linux-debug.json"
+    ],
 
     "buildPresets": [
         {

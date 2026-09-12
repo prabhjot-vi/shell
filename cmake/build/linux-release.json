@@ -1,5 +1,8 @@
 {
     "version": 8,
+    "include": [
+        "../config/linux-release.json"
+    ],
 
     "buildPresets": [
         {
