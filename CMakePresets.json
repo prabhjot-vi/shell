@@ -1,0 +1,9 @@
+{
+    "version": 8,
+    "include": [
+        "cmake/build/linux-debug.json",
+        "cmake/build/linux-release.json",
+        "cmake/config/linux-debug.json",
+        "cmake/config/linux-release.json"
+    ]
+}

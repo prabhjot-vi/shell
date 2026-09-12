@@ -1,0 +1,11 @@
+{
+    "version": 8,
+
+    "buildPresets": [
+        {
+            "name": "linux-debug",
+            "displayName": "Linux Debug",
+            "configurePreset": "linux-debug"
+        }
+    ]
+}

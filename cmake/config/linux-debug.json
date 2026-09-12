@@ -1,0 +1,21 @@
+{
+    "version": 8,
+    "include": [
+        "bin-dir.json",
+        "debug.json",
+        "gcc.json",
+        "ninja.json"
+    ],
+    "configurePresets": [
+        {
+            "name": "linux-debug",
+            "displayName": "Linux Debug",
+            "inherits": [
+                "bin-dir",
+                "debug",
+                "gcc",
+                "ninja"
+            ]
+        }
+    ]
+}

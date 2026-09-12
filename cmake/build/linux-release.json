@@ -1,0 +1,11 @@
+{
+    "version": 8,
+
+    "buildPresets": [
+        {
+            "name": "linux-release",
+            "displayName": "Linux Release",
+            "configurePreset": "linux-release"
+        }
+    ]
+}

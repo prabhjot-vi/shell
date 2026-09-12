@@ -1,0 +1,10 @@
+{
+    "version": 8,
+    "configurePresets": [
+        {
+            "name": "bin-dir",
+            "hidden": true,
+            "binaryDir": "${sourceDir}/build/${presetName}"
+        }
+    ]
+}
