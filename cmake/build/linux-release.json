@@ -1,0 +1,13 @@
+{
+    "version": 8,
+    "include": [
+        "../config/linux-release.json"
+    ],
+    "buildPresets": [
+        {
+            "name": "linux-release",
+            "displayName": "Linux Release",
+            "description": "Build with optimizations and no debug information."
+        }
+    ]
+}

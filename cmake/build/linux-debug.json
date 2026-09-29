@@ -1,0 +1,13 @@
+{
+    "version": 8,
+    "include": [
+        "../config/linux-debug.json"
+    ],
+    "buildPresets": [
+        {
+            "name": "linux-debug",
+            "displayName": "Linux Debug",
+            "description": "Build with debug information and no optimization."
+        }
+    ]
+}
